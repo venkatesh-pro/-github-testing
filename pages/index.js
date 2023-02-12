@@ -17,6 +17,7 @@ export default function Home() {
       <div className={styles.main}>
         <h1>Venkatesh</h1>
         <h1>Venkatesh</h1>
+        <h1>Venkatesh</h1>
       </div>
     </>
   )
